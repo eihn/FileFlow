@@ -2,15 +2,13 @@
 Automatically organizes your downloads with custom rules.
 
 ## ✨ Features
-- 🖤 Dark Mode UI
 - 📥 System Tray
 - ⏸️ Pause/Resume
-- 🎛️ Edit rules without JSON
+- 🎛️ Edit rules
 - 📝 Logging
-- 🚀 Auto-start
 
 ## 🛠️ Built With
-- C# (.NET 6)
+- C# (.NET)
 - Windows Forms
 - Newtonsoft.Json
 
